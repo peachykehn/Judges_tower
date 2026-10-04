@@ -1,0 +1,8 @@
+5x pushbutton https://www.amazon.com/dp/B08SKJ6V7Z
+4x 300mm led filament https://www.adafruit.com/product/5503
+1x teensy 4.0
+1x 3.7v 500mAH battery
+1x 18650 charging module https://www.amazon.com/dp/B087Q915LF
+12x arduino led (3x each of red, white, blue, green)
+4x resistors for led (1 between each set of 3 led and ground in parallel), varies because each color has different brightness.
+1x master on/off rocker switch 10x15mm
